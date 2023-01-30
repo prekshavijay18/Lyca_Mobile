@@ -41,7 +41,7 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 
 ## Run json server
 
-Step 1: npm install -g Json-server 
+Step 1: npm install -g json-server 
 
 Step 2: json-server -w db.json 
 
